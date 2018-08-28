@@ -1,0 +1,2 @@
+# notes
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/82d96e92e7b54f4c9610a5a0db77eb3b)](https://app.codacy.com/app/01pshe/notes?utm_source=github.com&utm_medium=referral&utm_content=01pshe/notes&utm_campaign=Badge_Grade_Settings)
